@@ -11,18 +11,18 @@ global.lann = 'apikeylu'
 
 /*============== NOMOR ==============*/
 global.info = {
-	nomorbot: '6281283516246',
-	nomorown: '6281283516246',
+	nomorbot: '447520651745',
+	nomorown: '447520651745',
 	namebot: 'Assisten YuLa',
-	nameown: 'MaximusStore'
+	nameown: 'Alok Don'
 }
 
 /*============== OWNER ==============*/
 global.owner = [
-['6281283516246', 'Maximus', 'true']
+['447520651745', 'Maximus', 'true']
 ]
-global.mods = ['6281283516246']
-global.prems = ['6281283516246']
+global.mods = ['447520651745']
+global.prems = ['447520651745']
 
 /*=============== API ===============*/
 global.APIs = {
@@ -42,18 +42,18 @@ global.APIKeys = {
 
 /*============= WATERMARK =============*/
 global.wm = 'Maximus'
-global.author = '© ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
+global.author = 'ᴀssɪsᴛᴇɴ ʏᴜʟᴀ💕'
 global.stickpack = 'Maximus'
-global.stickauth = '© ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
+global.stickauth = 'ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
 global.multiplier = 38 // The higher, The harder levelup
 
 /*============== TEXT ==============*/
 global.nameown = 'Maximus Store'
-global.waown = 'wa.me/6281283516246'
-global.mail = 'maximusstoreindonesia@gmail.com'
-global.fb = 'https://facebook.com/maximusstoreindonesia'
-global.ig = 'https://instagram.com/maximusstore.id'
-global.gcbot = 'https://chat.whatsapp.com/LZCnnSQFPkF3C6zrDcH5n8'
+global.waown = 'wa.me/447520651745'
+global.mail = 'devilfakemail@gmail.com'
+global.fb = 'https://facebook.com/'
+global.ig = 'https://instagram.com/dr4k3_10'
+global.gcbot = 'https://wa.me/447520651745'
 global.wait = '_*YuLa sedang memproses...*_'
 global.eror = '*Server YuLa down*'
 global.maxwarn = '2'
